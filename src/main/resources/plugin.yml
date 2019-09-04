@@ -8,7 +8,14 @@ commands:
     usage: /<command>
     permission: <plugin name>.basic
     permission-message: You don't have <permission>
+  
   KitSniper:
+    description: Execute example command
+    usage: /<command>
+    permission: <plugin name>.basic
+    permission-message: You don't have <permission>
+
+  KitTank:
     description: Execute example command
     usage: /<command>
     permission: <plugin name>.basic
